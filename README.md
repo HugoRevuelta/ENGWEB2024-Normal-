@@ -1,2 +1,2 @@
 # ENGWEB2024-Normal-
-examen
+No supe como cambiar de csv a json, hice todos los programas que pedia pero sin el json.
